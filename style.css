@@ -1,0 +1,171 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+.background {
+  background-image: url(images/donation6.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+.content {
+  text-align: center;
+  padding: 80px;
+  color: white;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+h3 {
+  font-size: 24px;
+}
+.link-botton {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 700;
+  background-image: linear-gradient(red, tomato);
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: white;
+}
+section {
+  margin-bottom: 50px;
+}
+.donation {
+  text-align: center;
+}
+.modified-text-color {
+  color: #707070;
+}
+.resize-para {
+  margin: 0 250px 30px;
+}
+.amount ul {
+  display: inline-block;
+}
+.amount ul li {
+  display: inline-block;
+  padding: 50px;
+  text-align: center;
+  background-color: #fafafa;
+  font-size: 30px;
+  font-weight: 700;
+  color: #707070;
+}
+#special-color {
+  background-color: #ffeeee;
+  color: #ff5959;
+  border: 2px solid #ff5959;
+}
+.input-button {
+  text-align: center;
+  height: 100px;
+}
+#donate-here {
+  display: block;
+  margin: auto;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  width: 600px;
+  text-align: center;
+}
+#submit {
+  margin-top: 10px;
+  display: inline-block;
+}
+.split {
+  display: flex;
+  margin: 5px 100px;
+}
+.food-background {
+  background-color: #4f9da61a;
+  background-image: url(images/food.png);
+  background-repeat: no-repeat;
+  background-position: 40px 50px;
+}
+.small-fixing {
+  margin: 10px;
+  padding: 100px 40px 10px;
+}
+.shelter {
+  background-color: #ff59591a;
+  background-image: url(images/shelter.png);
+  background-repeat: no-repeat;
+  background-position: 40px 50px;
+}
+.education {
+  background-color: #fff4d6;
+  background-image: url(images/Frame-1.png);
+  background-repeat: no-repeat;
+  background-position: 40px 50px;
+}
+.flood-affected-area {
+  display: flex;
+}
+.contribution-process {
+  width: 40%;
+  padding-left: 140px;
+  padding-right: 50px;
+}
+.ek-takai-ahar {
+  width: 100%;
+  border-radius: 5px;
+}
+.edit-form {
+  padding: 60px 120px;
+  margin: 50px 300px;
+  background-color: #fff4d6;
+  position: relative;
+}
+label {
+  position: relative;
+}
+#mail-address {
+  width: 250px;
+  height: 25px;
+  margin-right: 0;
+  background-color: #d9d9d9;
+  border: none;
+  border-radius: 5px;
+}
+#subscribe {
+  height: 25px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border: none;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  color: white;
+  background-image: linear-gradient(red, tomato);
+}
+footer {
+  background-color: #0b0d17;
+  text-align: center;
+  margin: 0;
+}
+.special-text {
+  font-family: "The Nautigal", cursive;
+  color: #ff5959;
+  padding: 30px 0 0;
+}
+footer p {
+  color: white;
+  padding: 0 0 30px;
+  margin: 0;
+}
+/* h4 {
+  font-family: "The Nautigal", cursive;
+  color: red;
+  margin: 0;
+  padding: 0;
+  font-size: 20px; 
+}
+*/
